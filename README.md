@@ -1,2 +1,2 @@
-# distributed-computing
-Sandbox for processing big data with AWS and Google Cloud Platform
+# Distributed Computing
+Sandbox for processing big data with PySpark, Google Cloud Platform (GCP), and AWS.
